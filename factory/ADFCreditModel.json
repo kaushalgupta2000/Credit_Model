@@ -1,0 +1,9 @@
+{
+	"name": "ADFCreditModel",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9491b6f9-adb5-4cab-bd62-6ff9ff18e2a9",
+		"tenantId": "ce0c6c82-eb21-45ca-b028-ec16b8132a80"
+	}
+}
